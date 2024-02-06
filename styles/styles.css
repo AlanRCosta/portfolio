@@ -110,7 +110,6 @@ header {
 }
 
 .perfil__image {
-  /* width: 50%; */
   max-width: 480px;
   border-radius: 16px;
 }
@@ -141,5 +140,9 @@ footer {
 
   .presentation__content {
     width: auto;
+  }
+
+  .perfil__image {
+    max-width: 350px;
   }
 }
